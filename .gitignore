@@ -1,1 +1,9 @@
-/certs/**
+/certs/ca/*.crt
+/certs/ca/*.key
+/certs/ca/*.pfx
+/certs/domains/*.crt
+/certs/domains/*.key
+/certs/domains/*.pfx
+/certs/intermediate/*.crt
+/certs/intermediate/*.key
+/certs/intermediate/*.pfx
